@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zilleazam
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning  front end development
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 How to reach me @zilleazam
 
 <!---
 zilleazam/zilleazam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
