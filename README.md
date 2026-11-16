@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/b58daf2cc16a8dc76999db7db3e9d31e.jpg" width="100%" alt="Neon developer banner reading HELLO WORLD and COMMIT, PUSH, REPEAT, with glowing circuit lines connecting a ghost, a cat and a hooded coder">
-</p>
-
 <h1 align="center">Zille Tabia Azam</h1>
 
 <p align="center"><strong>SIEM Engineer || SOC || Elastic Security || Observability || CNSP || CAP || AI Agents &amp; Automation || R&amp;D</strong></p>
@@ -10,8 +6,6 @@
   <a href="https://www.linkedin.com/in/zilletabia/"><img src="https://img.shields.io/badge/LinkedIn-zilletabia-0A66C2?style=flat-square" alt="LinkedIn: zilletabia"></a>
   <a href="https://medium.com/@zilleazam"><img src="https://img.shields.io/badge/Medium-@zilleazam-0B1F3A?style=flat-square&logo=medium&logoColor=2DD4BF" alt="Medium: @zilleazam"></a>
 </p>
-
-<img src="assets/download.gif" align="right" width="180" alt="Animated rubber duck working at a desk with several monitors full of code, against a green binary-code background">
 
 <br clear="right">
 
